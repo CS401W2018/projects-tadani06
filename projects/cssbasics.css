@@ -1,0 +1,10 @@
+main p{    
+     color: blue;
+     font-family:'Courier New', Courier, monospace
+     font-weight:bold;
+     font-size:smaller;
+}
+
+footer p{
+    color: rgb(199, 93, 93);
+}
